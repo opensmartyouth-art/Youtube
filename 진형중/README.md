@@ -7,23 +7,23 @@
 
 전체 컨셉, 세계관, 설정의 기준이 되는 문서입니다.
 
-진형중 (Jin Hyeong-jung) 프로젝트 기준 문서: https://app.notion.com/p/Jin-Hyeong-jung-3e6b8ffadf9780b1930dc709041ed4dd?source=copy_link
+진형중 (Jin Hyeong-jung) 프로젝트 기준 문서: https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%20(Jin%20Hyeong-jung)%20%E2%80%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EC%A4%80%20%EB%AC%B8%EC%84%9C
 
 ## 2. 앨범별 문서
 
 발매 순서대로 정리되어 있으며, 각 문서에는 수록곡, 가사, Suno 프롬프트 등이 담겨 있습니다.
 
 ### 1집 「오늘도 해는 뜬다」
-https://app.notion.com/p/1-3e6b8ffadf9780049b06c7dc1139d137?source=copy_link
+https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%201%EC%A7%91%20%E3%80%8C%EC%98%A4%EB%8A%98%EB%8F%84%20%ED%95%B4%EB%8A%94%20%EB%9C%AC%EB%8B%A4%E3%80%8D
 
 ### 2집 「살아있으니까 신난다」
 https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%202%EC%A7%91%20%E3%80%8C%EC%82%B4%EC%95%84%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C%20%EC%8B%A0%EB%82%9C%EB%8B%A4%E3%80%8D
 
 ### 3집 「사람이 좋다」
-https://app.notion.com/p/3-3e6b8ffadf9780da85b0e3cc7b9d2218?source=copy_link
+https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%203%EC%A7%91%20%E3%80%8C%EC%82%AC%EB%9E%8C%EC%9D%B4%20%EC%A2%8B%EB%8B%A4%E3%80%8D
 
 ### 4집 「오늘도 좋다」
-https://app.notion.com/p/4-3e6b8ffadf9780a68419d8c65efd4594?source=copy_link
+[https://app.notion.com/p/4-3e6b8ffadf9780a68419d8c65efd4594?source=copy_link](https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%204%EC%A7%91%20%E3%80%8C%EC%98%A4%EB%8A%98%EB%8F%84%20%EC%A2%8B%EB%8B%A4%E3%80%8D)
 
 ## 언제 무엇을 보면 되나요?
 
