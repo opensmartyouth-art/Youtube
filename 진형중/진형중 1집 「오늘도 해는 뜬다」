@@ -1,0 +1,326 @@
+- 발매 : 2026
+- 타이틀곡 : 오늘도 해는 뜬다
+- 컨셉 : 희망·감성·정통 트로트
+
+---
+
+## 수록곡 리스트
+
+| 트랙 | 곡명 | 장르 |
+| --- | --- | --- |
+| 01 | 오늘도 해는 뜬다 | 정통 트로트 |
+| 02 | 진주 나의 고향 | 서정 트로트 |
+| 03 | 그 사람 어디 갔나 | 애절 트로트 |
+| 04 | 남자의 눈물 | 트로트 발라드 |
+| 05 | 사랑아 춤춰라 | 댄스 트로트 |
+| 06 | 꽃길만 걸어요 | 트로트 팝 / 듀엣 감성 |
+
+---
+
+## 01. 「오늘도 해는 뜬다」
+
+**장르** 정통 트로트
+
+### 가사
+
+```
+[1절]
+어두운 밤이 지나면 어김없이
+동쪽 하늘 붉게 물드는 아침
+힘들어도 괜찮아 눈물 닦아
+오늘도 해는 뜬다 어김없이
+
+[후렴]
+일어나 일어나 다시 한번
+넘어져도 괜찮아 또 일어나
+웃어라 웃어라 오늘 하루
+오늘도 해는 뜬다 살아있다
+
+[2절]
+가는 세월 붙잡지 말고 살아
+지나간 일 돌아보지 말고 가
+가슴 펴고 걸어가 이 길 위를
+오늘도 해는 뜬다 내일도 뜬다
+
+[후렴 반복]
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Upbeat, Energetic]
+[Mood: Bright, Hopeful, Cheerful, Anthemic]
+[Vocal: Korean male baritone, warm tone, trot melisma, age 45]
+[Instruments: Accordion, Korean haegeum, brass band,
+trot rhythm guitar, upbeat drum kit]
+[Tempo: 120 BPM, march-like energy]
+[Lyric language: Korean]
+[Style reference: 남진, 설운도 feel with modern production]
+```
+
+---
+
+## 02. 「진주 나의 고향」
+
+**장르** 서정 트로트
+
+### 가사
+
+```
+[1절]
+남강 물이 흐르던 그 시절이
+눈을 감으면 아직도 눈에 선해
+어머니 손잡고 걷던 골목길
+진주야 나의 고향 보고 싶다
+
+[후렴]
+고향이여 고향이여 진주 땅이여
+가슴 속에 품고 사는 그 이름아
+언제쯤 다시 가나 언제쯤 가나
+진주야 나는 지금 너를 그린다
+
+[2절]
+봄날이면 벚꽃 피던 강변에서
+친구들과 웃음꽃을 피웠건만
+세월 따라 뿔뿔이 헤어졌어도
+진주야 나의 사랑 변치 않아
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Ballad-Trot]
+[Mood: Nostalgic, Warm, Sentimental, Homesick]
+[Vocal: Korean male baritone, emotional vibrato, trot style, soulful]
+[Instruments: Acoustic guitar, strings, accordion,
+soft percussion, piano]
+[Tempo: 76 BPM, slow waltz feel]
+[Lyric language: Korean]
+[Style reference: 태진아 서정 트로트 스타일]
+```
+
+---
+
+## 03. 「그 사람 어디 갔나」
+
+**장르** 애절 트로트
+
+### 가사
+
+```
+[1절]
+어느 날 갑자기 떠나버린 사람
+뒤돌아보지도 않고 가더라
+가도 된다 웃으며 보내줬는데
+이 밤이 왜 이리 길고 긴지
+
+[후렴]
+그 사람 어디 갔나 어디 있나
+내 가슴에 구멍 뚫린 이 자리
+잊으면 된다고 다들 하는데
+그 사람 어디 갔나 보고 싶다
+
+[2절]
+우리 함께 걷던 그 골목에
+지금도 네 발소리 들리는 것 같아
+철없이 사랑만 했던 그 시절이
+이렇게 아픔이 될 줄 몰랐어
+
+[후렴 반복]
+
+[브릿지]
+사랑은 오는 것도 모르게 오고
+가는 것도 모르게 가는 건가
+붙잡지 못한 내가 바보지
+그래도 보고 싶어 그 사람이
+
+[아웃트로]
+그 사람~ 어디 갔나~
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Sad Trot, Ballad-Trot]
+[Mood: Heartbroken, Longing, Melancholic, Tearful, Regretful]
+[Vocal: Korean male baritone, deep emotional vibrato,
+cracked voice on high notes, trot-style ornamentation,
+restrained crying in voice]
+[Instruments: Accordion, acoustic guitar, strings, soft snare,
+piano, subtle haegeum (해금) for Korean color]
+[Tempo: 72 BPM, slow sorrowful groove]
+[Lyric language: Korean]
+[Style reference: 설운도 애절 트로트, 주현미 감성의 남성 버전]
+```
+
+---
+
+## 04. 「남자의 눈물」
+
+**장르** 트로트 발라드
+
+### 가사
+
+```
+[1절]
+남자라서 울 수도 없다고
+꾹꾹 참고 살아왔던 세월아
+어디서부터 잘못된 건지
+돌아봐도 알 수가 없는 인생아
+
+[후렴]
+남자의 눈물은 가슴으로 흘러
+아무도 모르게 혼자 울었네
+괜찮다 괜찮다 웃어 보여도
+남자의 눈물은 안으로 운다
+
+[2절]
+사랑했던 그 사람 떠나가고
+남은 건 추억뿐인 빈 방이여
+한 잔 술로 달래보는 이 밤에
+누구를 원망하랴 내 탓이지
+
+[후렴 반복]
+
+[브릿지]
+살다 보면 다 지나간다
+이 밤도 반드시 지나간다
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot Ballad]
+[Mood: Melancholic, Emotional, Masculine sorrow, Bittersweet]
+[Vocal: Korean male baritone, deep emotional vibrato,
+restrained pain, trot style]
+[Instruments: Piano, strings, acoustic guitar, subtle brass, soft drum]
+[Tempo: 68 BPM, slow and powerful]
+[Lyric language: Korean]
+[Style reference: 장민호, 임영웅 감성 발라드 트로트]
+```
+
+---
+
+## 05. 「사랑아 춤춰라」
+
+**장르** 댄스 트로트
+
+### 가사
+
+```
+[1절]
+봄바람이 불어오면 가슴이 뛰어
+꽃잎처럼 날리는 사랑이여
+이 세상에 태어나서 제일 좋은 건
+사랑하고 사랑받는 이 순간이야
+
+[후렴]
+사랑아 춤춰라 오늘 밤에
+사랑아 노래해 신나게
+너와 나 둘이서 이 밤 끝까지
+사랑아 춤춰라 멈추지 마라
+
+[2절]
+세월이 가도 변치 않을
+그 사람과 함께라면 괜찮아
+나이가 들어도 사랑만큼은
+청춘처럼 뛰는 내 심장이여
+
+[후렴 반복]
+
+[아웃트로]
+사랑아~ 사랑아~ 춤춰라~!
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot Dance, Disco Trot]
+[Mood: Joyful, Energetic, Romantic, Celebratory, Summer night]
+[Vocal: Korean male baritone, bright and energetic,
+trot riffs, high note finale]
+[Instruments: Synthesizer, trot rhythm guitar, brass stabs,
+electronic drum kit, hand claps, bass]
+[Tempo: 128 BPM, disco-trot groove]
+[Lyric language: Korean]
+[Style reference: 현진영 + 트로트 디스코 퓨전, 신나는 무대 엔딩 곡]
+```
+
+---
+
+## 06. 「꽃길만 걸어요」
+
+**장르** 트로트 팝 / 듀엣 감성
+
+### 가사
+
+```
+[인트로 — 여성 코러스]
+라라라라~ 라라라라~
+꽃잎처럼 날리는 이 봄날에~
+
+[1절 — 진형중]
+그대 손을 잡고 걷는 이 길이
+어디로 가도 좋은 건 그대 때문에
+힘든 날도 그대 옆에 있으면
+세상이 온통 꽃밭이 되네요
+
+[프리후렴 — 여성 코러스 위로 진형중]
+오늘도 내일도 모레도
+그대와 함께라면
+
+[후렴 — 진형중 + 여성 코러스 풀]
+꽃길만 걸어요 우리 둘이서
+바람이 불어도 손 놓지 말아요
+꽃길만 걸어요 이 생이 다하도록
+그대와 나 영원히 꽃길만 걸어요
+
+[2절 — 진형중]
+비 오는 날에도 그대 미소는
+내 하루를 환하게 밝혀주네요
+나이가 들어도 변치 않을게
+그대만을 위한 이 마음 하나
+
+[프리후렴 — 여성 코러스]
+오늘도 내일도 모레도
+그대와 함께라면~
+
+[후렴 반복 — 코러스 두 겹으로]
+
+[브릿지 — 여성 코러스 단독]
+하늘 아래 둘이서
+꽃비 맞으며 걸어요
+이 길의 끝에서도
+손잡고 웃어요~
+
+[마지막 후렴 — 진형중 + 코러스 풀 3겹, 키 올려서]
+꽃길만 걸어요 우리 둘이서
+바람이 불어도 손 놓지 말아요
+꽃길만 걸어요 이 생이 다하도록
+그대와 나 영원히 꽃길만 걸어요~
+
+[아웃트로 — 여성 코러스 페이드아웃]
+라라라라~ 꽃길만~ 걸어요~
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot Pop, Romantic Trot, Ballad-Trot]
+[Mood: Warm, Sweet, Hopeful, Emotional finale, Grand closing]
+[Vocal: Korean male baritone lead, warm and full tone, trot style]
+[Chorus: Large female choir, 3-layer harmony, lush and emotional,
+present throughout — intro, pre-chorus, chorus, bridge, outro]
+[Bridge: Female chorus solo section, no male vocal, pure harmony]
+[Final chorus: Male lead + full female chorus 3 layers, key change up one step]
+[Instruments: Piano, full strings orchestra, accordion,
+light percussion, harp arpeggios, brass swell on final chorus]
+[Tempo: 84 BPM, gentle waltz-like groove]
+[Arrangement: Female chorus enters from bar 1 and never fully disappears,
+always layering under or alongside the male lead]
+[Lyric language: Korean]
+[Style reference: 남진 + 여성 코러스 풀 편성, 트로트 대곡 엔딩 느낌]
+```
+
+---
