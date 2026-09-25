@@ -1,0 +1,306 @@
+- 발매 : 2026
+- 타이틀곡 : 어이야 좋다
+- 컨셉 : 흥·유머·그리움·인생의 맛
+
+---
+
+## 수록곡 리스트
+
+| 트랙 | 곡명 | 장르 |
+| --- | --- | --- |
+| 01 | 어이야 좋다 | 뽕짝 / 흥겨운 트로트 |
+| 02 | 미애야 | 신나는 그리움 트로트 |
+| 03 | 어머니 손 | 서정 트로트 / 효도 발라드 |
+| 04 | 세월아 야속하다 | 신나는 한(恨) 트로트 |
+| 05 | 여름 뽕짝 | 여름 뽕짝 |
+
+---
+
+## 01. 「어이야 좋다」
+
+**장르** 뽕짝 / 흥겨운 트로트
+
+### 가사
+
+```
+[인트로]
+어이야~ 어이야~ 좋다 좋아~
+
+[1절]
+밥 한 술 뜨고 나면 기분이 좋고
+막걸리 한 잔 하면 더욱 좋아요
+걱정은 내일 하고 오늘은 놀자
+어이야 좋다 신나게 놀자
+
+[후렴]
+어이야 어이야 좋다 좋아
+어이야 어이야 신나네
+손뼉을 치고 발을 구르며
+어이야 어이야 놀아보세
+
+[2절]
+하늘도 맑고 바람도 좋고
+옆에 당신 있으니 더욱 좋아요
+이런 날 그냥 보내면 아깝잖아요
+어이야 좋다 오늘도 좋다
+
+[후렴 반복]
+
+[아웃트로]
+어이야~ 어이야~ 좋다 좋아~!
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Ppongjjak, Upbeat Folk]
+[Mood: Joyful, Silly, Easy-going, Crowd singalong, Party]
+[Vocal: Korean male baritone, low comfortable range, playful tone,
+easy melodic line anyone can follow, trot style]
+[Instruments: Accordion, tuba, snare drum, ppongjjak rhythm guitar,
+hand claps, crowd response]
+[Tempo: 138 BPM, bouncy ppongjjak groove]
+[Lyric language: Korean]
+[Style reference: 박현빈 샤방샤방, 뽕짝 흥겨운 스타일]
+```
+
+---
+
+## 02. 「미애야」
+
+**장르** 신나는 그리움 트로트
+
+### 가사
+
+```
+[1절]
+중학교 2학년 그 봄날에
+분홍 리본 달고 웃던 미애야
+수줍게 건네주던 편지 한 장이
+아직도 내 가슴 속에 남아있어
+
+[후렴]
+미애야 미애야 보고 싶다
+어디서 살고 있니 미애야
+그때 그 웃음 그대로인지
+미애야 미애야 잘 지내니
+
+[2절]
+졸업식 날 헤어지던 그 운동장
+눈물 한 방울 닦아주던 미애야
+세월이 흘러 나는 이렇게 됐는데
+너는 지금 어떤 모습일까
+
+[후렴 반복]
+
+[브릿지]
+첫사랑은 다 이루어지지 않아서
+더 오래 기억되나봐
+미애야 어딘가에서
+행복하게 살고 있겠지~
+
+[마지막 후렴]
+미애야 미애야 보고 싶다
+어디서 살고 있니 미애야
+이제는 추억으로 간직할게
+미애야 미애야 잘 살아라~
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Retro Trot, Upbeat Nostalgia]
+[Mood: Nostalgic but cheerful, First love longing, Sweet and light,
+bittersweet without sadness]
+[Vocal: Korean male baritone, warm and reminiscing tone,
+playful smile in the voice, trot ornaments]
+[Instruments: Electric guitar, accordion, upbeat drum kit,
+brass stabs, cheerful melody line]
+[Tempo: 126 BPM, bouncy and light]
+[Lyric language: Korean]
+[Style reference: 설운도 첫사랑 감성, 신나는 추억 트로트]
+```
+
+---
+
+## 03. 「어머니 손」
+
+**장르** 서정 트로트 / 효도 발라드
+
+### 가사
+
+```
+[1절]
+쌀을 씻던 그 손이
+나를 씻기던 그 손이
+평생 일만 하셨던
+어머니 손이 주름졌네요
+
+세월이 가도 그 손은
+내겐 세상에서 제일 따뜻한
+어머니 어머니
+그 손 꼭 잡고 싶습니다
+
+[후렴]
+어머니 손 한번만 잡아봐도
+이 세상 다 가진 것 같아요
+어머니 손 한번만 잡아봐도
+눈물이 왜 이렇게 나는지
+
+[2절]
+밥을 짓던 그 손이
+등을 밀어주던 그 손이
+한 번도 쉰 적 없던
+어머니 손이 거칠어졌네요
+
+이제는 제가 그 손을
+따뜻하게 감싸드릴게요
+어머니 어머니
+오래오래 곁에 있어주세요
+
+[후렴 반복]
+
+[아웃트로]
+어머니~ 사랑합니다~
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot Ballad, Filial Piety Trot]
+[Mood: Warm, Emotional, Grateful, Tearful but peaceful]
+[Vocal: Korean male baritone, deep sincere emotion,
+restrained tears in voice, heartfelt trot style]
+[Instruments: Piano, acoustic guitar, strings,
+soft percussion, gentle accordion]
+[Tempo: 70 BPM, slow and reverent]
+[Lyric language: Korean]
+[Style reference: 현철 봉선화연정, 태진아 효도 트로트 감성]
+```
+
+---
+
+## 04. 「세월아 야속하다」
+
+**장르** 신나는 한(恨) 트로트
+
+### 가사
+
+```
+[1절]
+어제 같은데 벌써 마흔다섯
+거울 보면 낯선 얼굴이 웃네
+언제 이렇게 됐나 세월아
+너무하지 않냐 야속하다야
+
+[후렴]
+세월아 세월아 야속한 세월아
+왜 이렇게 빨리 달리냐
+세월아 세월아 기다려 주라
+아직 하고 싶은 게 많다야
+
+에이 어차피 가는 세월
+신나게 살자 신나게
+세월아 세월아 야속해도
+오늘이 제일 젊은 날이다
+
+[2절]
+친구들 모이면 옛날 얘기만
+머리카락 하나둘 숨어버리고
+그래도 웃는 거야 살았잖아
+세월아 기왕이면 좀 천천히
+
+[후렴 반복]
+
+[브릿지]
+울어봤자 안 돌아오는 세월
+웃어보자 지금 이 순간을
+야속하면 어때 신나면 그만
+어이야 살아있으니 좋다~
+
+[마지막 후렴 — 키 올려서]
+세월아 세월아 야속한 세월아
+왜 이렇게 빨리 달리냐
+세월아 세월아 기다려 주라
+아직 하고 싶은 게 많다야~!
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Trot, Upbeat Han Trot, Bittersweet Dance Trot]
+[Mood: Bittersweetly joyful, Lamenting time but dancing anyway,
+coexistence of sorrow and excitement, middle-aged humor]
+[Vocal: Korean male baritone, playful yet emotional,
+laughing through the sadness, energetic trot style]
+[Instruments: Accordion, brass band, upbeat drum kit,
+electric guitar, hand claps, crowd shout response]
+[Tempo: 132 BPM, dance trot groove]
+[Key change: Final chorus up one step]
+[Lyric language: Korean]
+[Style reference: 진성 + 영탁 스타일, 흥겨운 인생 트로트]
+```
+
+---
+
+## 05. 「여름 뽕짝」
+
+**장르** 여름 뽕짝
+
+### 가사
+
+```
+[인트로]
+얼쑤~ 좋다~!
+
+[1절]
+파란 바다 모래사장에
+파라솔 하나 딱 펼쳐놓고
+냉수 한 잔 들이켜면
+이게 바로 여름이야
+
+[후렴]
+여름이다 신난다 뽕짝이다
+파도 소리 들으며 춤을 추자
+여름이다 신난다 뽕짝이다
+걱정 근심 바다에 던져버려
+
+[2절]
+뜨거운 태양 아래에서
+아이스크림 하나 쪽 빨면서
+옆에 당신 웃는 얼굴 보니
+이게 바로 행복이야
+
+[후렴 반복]
+
+[브릿지]
+동해 바다 서해 바다 남해 바다 다 좋아
+올여름은 뽕짝이랑 신나게 놀자~
+
+[마지막 후렴]
+여름이다 신난다 뽕짝이다
+파도 소리 들으며 춤을 추자
+여름이다 신난다 뽕짝이다
+이 여름이 다 가기 전에 놀자~!
+
+[아웃트로]
+얼쑤~ 좋다~ 한 번 더~!
+```
+
+### Suno 프롬프트
+
+```
+[Genre: Korean Summer Trot, Beach Ppongjjak]
+[Mood: Carefree, Beachy, Hot summer energy, Pure fun,
+zero worries, maximum joy]
+[Vocal: Korean male baritone, bright and playful,
+summer vacation energy, easy singalong, ad-libs]
+[Instruments: Accordion, tropical percussion,
+brass stabs, ppongjjak rhythm guitar, hand claps,
+steel drum hints, upbeat bass]
+[Tempo: 142 BPM, summer dance groove]
+[Lyric language: Korean]
+[Style reference: 박현빈 여름 뽕짝 스타일, 해변 분위기]
+```
+
+---
