@@ -17,7 +17,7 @@
 https://app.notion.com/p/1-3e6b8ffadf9780049b06c7dc1139d137?source=copy_link
 
 ### 2집 「살아있으니까 신난다」
-https://app.notion.com/p/2-3e6b8ffadf9780568ea9fb5b713b123b?source=copy_link
+https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%202%EC%A7%91%20%E3%80%8C%EC%82%B4%EC%95%84%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C%20%EC%8B%A0%EB%82%9C%EB%8B%A4%E3%80%8D
 
 ### 3집 「사람이 좋다」
 https://app.notion.com/p/3-3e6b8ffadf9780da85b0e3cc7b9d2218?source=copy_link
