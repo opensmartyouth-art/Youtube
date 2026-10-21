@@ -30,3 +30,8 @@ https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4
 전체 컨셉이 궁금할 때는 프로젝트 기준 문서를 확인합니다.
 특정 앨범이나 곡 작업이 필요할 때는 해당 앨범 문서를 확인합니다.
 새로운 곡을 추가하거나 수정할 때는 최신 발매 앨범(4집) 문서부터 확인한 후, 기준 문서와 일관성을 체크합니다.
+
+## 커버곡 가이드
+
+1. [RTCD Audio Pitch Shifter](https://rtcd.io/audio-pitch-shifter/)에서 원곡의 피치(Pitch)와 속도(Speed)를 조절합니다.
+2. Suno에서 커버곡을 만들 때는 원곡의 한국어 가사를 발음대로 영어 알파벳으로 로마자 음차하여 입력하고, RTCD에서 피치와 속도를 조절한 음원을 업로드합니다.
