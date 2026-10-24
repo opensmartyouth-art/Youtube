@@ -9,6 +9,12 @@
 
 진형중 (Jin Hyeong-jung) 프로젝트 기준 문서: https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/%EC%A7%84%ED%98%95%EC%A4%91%20(Jin%20Hyeong-jung)%20%E2%80%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EC%A4%80%20%EB%AC%B8%EC%84%9C
 
+## 1-1. 채널 전략 문서
+
+제목 형식·썸네일 원칙을 다루는 문서입니다 (업로드 주기·고지 문구·저작권 방침·댓글 말투는 기존 가이드를 따름).
+
+진형중 전략안 — 롱폼·숏폼 업로드 가이드: https://github.com/opensmartyouth-art/Youtube/blob/main/%EC%A7%84%ED%98%95%EC%A4%91/JinHyeongJung_Channel_Strategy.md
+
 ## 2. 앨범별 문서
 
 발매 순서대로 정리되어 있으며, 각 문서에는 수록곡, 가사, Suno 프롬프트 등이 담겨 있습니다.
