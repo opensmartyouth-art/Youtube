@@ -9,6 +9,7 @@
 - **타겟:** 미국 중심 영어권 시청자
 - **포맷:** 롱폼 플레이리스트 믹스 (약 20분 ~ 2시간) + 보조 쇼츠
 - **툴체인:** Suno (음악) · Higgsfield / Midjourney (썸네일·쇼츠) · FL Studio · Premiere Pro
+- **시행착오·노하우:** [VoidArchive_KnowHow.md](VoidArchive_KnowHow.md) — 운영하며 겪은 시도와 결과, 지금 규칙을 정리한 노트
 
 ---
 
@@ -48,7 +49,7 @@
 
 | 영상 | 성과 | 시사점 |
 |---|---|---|
-| working from anywhere. [deep house for remote work sessions] // 2 hours | **조회수 2만회 (채널 최고)** | 구체적 작업 상황 + 밝은 인테리어 + 작업 중인 여성 모델 |
+| working from anywhere. [deep house for remote work sessions] // 2 hours | **조회수 약 16만회 (채널 최고, 2026-10 기준)** | 구체적 작업 상황 + 밝은 인테리어 + 작업 중인 여성 모델. 이 영상 이후 채널이 수익 창출 조건 충족 |
 | don't stop until it's done. [deep house for all night study] // archive 06 | 평균 시청 22분 28초 | 공부 컨텍스트의 체류 시간이 길다 |
 | archive 03 (coding) | CTR 1.84% | 개발자 타겟 반응 |
 | archive 05 (design work) | CTR 2.15% | 크리에이티브 작업 컨텍스트 반응 |
@@ -250,3 +251,11 @@ done
 | 나이 숫자·European 키워드 제거 | Higgsfield NSFW 차단, 인물이 나이 들어 보이는 문제 |
 | 설명란에 `🔁 on repeat` 추가 | 반복 재생 유도로 시청 지속 시간 확보 |
 | 곡 수 8 ~ 9곡 기준 | 제작 효율과 영상 길이의 균형 |
+| 썸네일에 미드저니 `--profile ajrl4r2` 고정 | archive 35(8/18)부터 적용 후 채널 평균 조회수 상승(관찰) |
+| 썸네일 생성 이미지에 텍스트 금지 | 책 제목·간판 글자가 섞여 지저분해짐 |
+| 썸네일 인물은 화면의 약 20%, 얼굴 보이게 | 인물 중심은 공간감이 사라지고, 8%는 너무 멂 |
+| 감정형 대신 상황·용도형 제목 | 감정형 제목은 조회수·클릭률 모두 하위권 |
+| 첫 곡은 강하게 | 첫 30초 유지율 높은 영상이 상위권 |
+| 제목 길이 표기·타임스탬프는 실제 길이로 | 표기와 실제 길이가 다른 영상이 많았음 |
+
+자세한 근거와 수치는 [VoidArchive_KnowHow.md](VoidArchive_KnowHow.md) 참고.
